@@ -1,3 +1,14 @@
+<!-- Your screenshot placeholder -->
+
+# Languages Sound Board
+Languages and accents from around the world
+
+# Citations
+* I got my sounds from recording friends
+* My font share
+
+
+
 # Soundboard Starter Template
 Starter template for Soundboard deployed via Netlify. 
 
