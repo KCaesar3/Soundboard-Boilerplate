@@ -5,7 +5,9 @@ Languages and accents from around the world
 
 # Citations
 * I got my sounds from recording friends
-* My font share
+* My Font Share
+* Favicons
+* Any other code, assets, ect.
 
 
 
